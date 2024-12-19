@@ -152,7 +152,8 @@ $conn->close();
                 <h3>Students Enrolled This Year</h3>
                 <p><?php echo number_format($students_enrolled_this_year); ?></p>
             </div>
-
+            git config --global user.email "johnart@gmail.com"
+            git config --global user.name "Pacatang"
             <!-- Card for Total Revenue -->
             <div class="card4">
                 <div class="icon"><i class="fas fa-dollar-sign"></i></div>
